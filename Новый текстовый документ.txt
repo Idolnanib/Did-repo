@@ -1,1 +1,2 @@
 print(huint)
+не принт
